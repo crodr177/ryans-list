@@ -1,0 +1,8 @@
+{
+  "db": {
+    "host" : "localhost",
+    "user" : "ryan_list_user",
+    "password" : "cruz",
+    "database" : "ryans_list"
+  }
+}
